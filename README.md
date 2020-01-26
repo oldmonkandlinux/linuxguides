@@ -5,4 +5,4 @@ So the end-user should have a fair-knowledge of Linux and what files are require
 or configuring the OS. 
 
 The installation itself is not very straightforward, therefore i have made this small guide to
-help you setup Arch Linux with minimum to fuss. 
+help you setup Arch Linux with minimum to no-fuss. 
